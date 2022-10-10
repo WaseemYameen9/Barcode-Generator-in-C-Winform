@@ -1,0 +1,15 @@
+E:\Summer\BarCode\B1\B1\bin\Debug\B1.exe.config
+E:\Summer\BarCode\B1\B1\bin\Debug\B1.exe
+E:\Summer\BarCode\B1\B1\bin\Debug\B1.pdb
+E:\Summer\BarCode\B1\B1\obj\Debug\B1.Form1.resources
+E:\Summer\BarCode\B1\B1\obj\Debug\B1.Properties.Resources.resources
+E:\Summer\BarCode\B1\B1\obj\Debug\B1.csproj.GenerateResource.cache
+E:\Summer\BarCode\B1\B1\obj\Debug\B1.csproj.CoreCompileInputs.cache
+E:\Summer\BarCode\B1\B1\obj\Debug\B1.exe
+E:\Summer\BarCode\B1\B1\obj\Debug\B1.pdb
+E:\Summer\BarCode\B1\B1\bin\Debug\MessagingToolkit.Barcode.dll
+E:\Summer\BarCode\B1\B1\bin\Debug\Zen.Barcode.Core.dll
+E:\Summer\BarCode\B1\B1\bin\Debug\ZXing.Net.Mobile.Core.dll
+E:\Summer\BarCode\B1\B1\bin\Debug\zxing.portable.dll
+E:\Summer\BarCode\B1\B1\bin\Debug\ZXingNetMobile.dll
+E:\Summer\BarCode\B1\B1\obj\Debug\B1.csproj.CopyComplete
